@@ -7,6 +7,7 @@
 | [0015-3sum](https://github.com/RyeonaSherin/leetcode/tree/main/0015-3sum/) | Medium |
 | [0053-maximum-subarray](https://github.com/RyeonaSherin/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/RyeonaSherin/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/RyeonaSherin/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0088-merge-sorted-array](https://github.com/RyeonaSherin/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RyeonaSherin/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/RyeonaSherin/leetcode/tree/main/0136-single-number/) | Easy |
@@ -23,6 +24,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/RyeonaSherin/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0268-missing-number](https://github.com/RyeonaSherin/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/RyeonaSherin/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Bit Manipulation
@@ -86,5 +88,6 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/RyeonaSherin/leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/RyeonaSherin/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/RyeonaSherin/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 <!---LeetCode Topics End-->
