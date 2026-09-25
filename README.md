@@ -16,6 +16,7 @@
 | [0238-product-of-array-except-self](https://github.com/RyeonaSherin/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0268-missing-number](https://github.com/RyeonaSherin/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/RyeonaSherin/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/RyeonaSherin/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/RyeonaSherin/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [2965-find-missing-and-repeated-values](https://github.com/RyeonaSherin/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Two Pointers
@@ -52,6 +53,7 @@
 | [0169-majority-element](https://github.com/RyeonaSherin/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/RyeonaSherin/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/RyeonaSherin/leetcode/tree/main/0268-missing-number/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/RyeonaSherin/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/RyeonaSherin/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -110,6 +112,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/RyeonaSherin/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/RyeonaSherin/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
